@@ -21,3 +21,9 @@ console.log(sum(2, 4));
 
 const square = (num) => num**2;
 console.log(square(2));
+
+
+
+
+const greet = (name) => `Hello ${name}!`;
+console.log(greet ("Abdullah"));
